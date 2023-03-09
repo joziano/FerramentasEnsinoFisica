@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##################################################################################################################
-# dilataçãoTérmica.sh  é um programa que foi desenvolvido, com fins didáticos, durante a disciplina          #
+# dilataçãoTérmica.sh  é um programa que foi desenvolvido, com fins didáticos, durante a disciplina          	 #
 # IEF829 - Informática no Ensino de Física, oferecida pelo Departamento de Física do Instituto de Ciências       #
 # Exatas da Universidade Federal do Amazonas, durante o 1° Semestre letivo de 2022. Ele foi desenvolvido com o   #
 # objetivo de mostrar aos estudantes do curso de Licenciatura em Física que é possível criar softwares           #
